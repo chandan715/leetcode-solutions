@@ -29,3 +29,15 @@ To consistently improve problem-solving skills and become interview-ready for pr
 - LinkedIn: www.linkedin.com/in/chandana-nayak-a20928244
 - LeetCode: https://leetcode.com/u/D5HtmgahAY/
 - GitHub: https://github.com/chandan715
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/chandan715/leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/chandan715/leetcode-solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
