@@ -37,6 +37,7 @@ To consistently improve problem-solving skills and become interview-ready for pr
 | ------- |
 | [0001-two-sum](https://github.com/chandan715/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/chandan715/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/chandan715/leetcode-solutions/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,8 +46,13 @@ To consistently improve problem-solving skills and become interview-ready for pr
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chandan715/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/chandan715/leetcode-solutions/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chandan715/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/chandan715/leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
