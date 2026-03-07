@@ -4,7 +4,7 @@ This repository contains my ongoing LeetCode problem-solving journey.
 I am a Python developer preparing for product-based company roles by strengthening my DSA and algorithmic thinking.
 
 ## Current Progress
-- Problems Solved: 5
+- Problems Solved: 6
 - Focus Areas: Arrays, Strings, Hashing (currently building strong foundation)
 
 ## Repository Structure
