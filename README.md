@@ -41,6 +41,7 @@ To consistently improve problem-solving skills and become interview-ready for pr
 | [0031-next-permutation](https://github.com/chandan715/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chandan715/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chandan715/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/chandan715/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,12 @@ To consistently improve problem-solving skills and become interview-ready for pr
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/chandan715/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chandan715/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/chandan715/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/chandan715/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
