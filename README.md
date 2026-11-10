@@ -38,6 +38,7 @@ To consistently improve problem-solving skills and become interview-ready for pr
 | [0001-two-sum](https://github.com/chandan715/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/chandan715/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chandan715/leetcode-solutions/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/chandan715/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/chandan715/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chandan715/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chandan715/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -58,6 +59,7 @@ To consistently improve problem-solving skills and become interview-ready for pr
 | ------- |
 | [0011-container-with-most-water](https://github.com/chandan715/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chandan715/leetcode-solutions/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/chandan715/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/chandan715/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chandan715/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/chandan715/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
