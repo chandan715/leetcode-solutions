@@ -105,4 +105,8 @@ To consistently improve problem-solving skills and become interview-ready for pr
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/chandan715/leetcode-solutions/tree/master/0125-valid-palindrome) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/chandan715/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
