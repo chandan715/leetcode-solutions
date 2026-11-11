@@ -61,6 +61,7 @@ To consistently improve problem-solving skills and become interview-ready for pr
 | [0015-3sum](https://github.com/chandan715/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/chandan715/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/chandan715/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/chandan715/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chandan715/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/chandan715/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -97,4 +98,8 @@ To consistently improve problem-solving skills and become interview-ready for pr
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/chandan715/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/chandan715/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
