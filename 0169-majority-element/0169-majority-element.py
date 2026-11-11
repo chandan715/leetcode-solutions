@@ -1,18 +1,15 @@
-class Solution(object):
-    def majorityElement(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        dic={}
-        n=len(nums)
+class Solution:
+    def majorityElement(self, nums: list[int]) -> int:
+        obj={}
         for i in nums:
-            if i not in dic:
-                dic[i]=1
+            if i not in obj:
+                obj[i]=1
             else:
-                dic[i]+=1
-        for j in dic:
-            if dic[j]>n/2:
-                return j
-
+                obj[i]+=1
+        maxi=0
+        for i in obj:
+            if obj[i]>maxi:
+                maxi=obj[i]
+                key=i
+        return key
         
