@@ -55,6 +55,7 @@ To consistently improve problem-solving skills and become interview-ready for pr
 | [0001-two-sum](https://github.com/chandan715/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/chandan715/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chandan715/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/chandan715/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ To consistently improve problem-solving skills and become interview-ready for pr
 | [0088-merge-sorted-array](https://github.com/chandan715/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chandan715/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chandan715/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/chandan715/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/chandan715/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -105,6 +107,7 @@ To consistently improve problem-solving skills and become interview-ready for pr
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/chandan715/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/chandan715/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
