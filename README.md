@@ -47,6 +47,7 @@ To consistently improve problem-solving skills and become interview-ready for pr
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chandan715/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chandan715/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chandan715/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/chandan715/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/chandan715/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/chandan715/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -56,6 +57,7 @@ To consistently improve problem-solving skills and become interview-ready for pr
 | [0169-majority-element](https://github.com/chandan715/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chandan715/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chandan715/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/chandan715/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +81,7 @@ To consistently improve problem-solving skills and become interview-ready for pr
 | [0169-majority-element](https://github.com/chandan715/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chandan715/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chandan715/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/chandan715/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/chandan715/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -91,6 +94,7 @@ To consistently improve problem-solving skills and become interview-ready for pr
 | ------- |
 | [0053-maximum-subarray](https://github.com/chandan715/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/chandan715/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/chandan715/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +103,7 @@ To consistently improve problem-solving skills and become interview-ready for pr
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chandan715/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/chandan715/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -112,4 +117,16 @@ To consistently improve problem-solving skills and become interview-ready for pr
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chandan715/leetcode-solutions/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chandan715/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chandan715/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chandan715/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
